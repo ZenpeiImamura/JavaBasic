@@ -1,4 +1,4 @@
-package practice01;
+package calcapp.mail;
 /*
  * PTra01_01.java
  *   作成 LIKEIT  2017
