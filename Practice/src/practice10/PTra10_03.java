@@ -16,18 +16,18 @@ public class PTra10_03 {
 
 		// Userクラスを作成後に着手してください
 		// ★ User型の変数usを宣言してください
-
+		User us;
 
 		// ★ 変数usに、Userクラスのインスタンスを作成・代入してください
-
+		us=new User();
 
 		System.out.println("ユーザID（数字）、 ユーザ名、メールアドレス、パスワードをカンマ区切りで入力してください");
 
 		// ★ java.util.Scannerクラスをインスタンス化し、変数scannerに代入してください
-
+		java.util.Scanner scanner=new java.util.Scanner();
 
 		// ★ 入力された値を、String型の変数lineに格納してください
-
+		string line=scanner
 
 		// ★ 変数lineに格納されている値を','で区切り、配列にしてください（Stringクラスのメソッドを使用します）
 
